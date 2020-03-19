@@ -2,7 +2,7 @@ package mots;
 
 
 
-public class MotsUtils {
+public class MotsUtils {//test
 
 	public static String inverser(String str) {
 
