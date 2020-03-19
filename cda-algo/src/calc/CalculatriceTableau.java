@@ -27,7 +27,7 @@ public class CalculatriceTableau {
 	}
 
 	public static long sommeElementsDeuxTableaux(int[] tabInt, int[] tabInt2) {
-//			Version longue
+//			Version longue à ignorer
 //		long somme = 0;
 //		for (int i = 0; i < tabInt.length; i++) {
 //			somme = somme + tabInt[i];
